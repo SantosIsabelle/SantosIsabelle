@@ -1,29 +1,38 @@
-## Oii, eu sou a isa!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4F7942&height=120&section=header"/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&weight=700&size=25&duration=1000&pause=1500&color=c9d1d9&center=true&vCenter=true&width=820&height=60&lines=+Prazer, meu+nome+é+Isabelle Santos!+;Seja+bem-vindo+ao+meu+github.;" alt="Typing SVG" />
+</div>
+
 <div align="center">
   <a href="https://github.com/SantosIsabelle">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SantosIsabelle&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantosIsabelle&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=SantosIsabelle&show_icons=true&count_private=true&hide_border=true&title_color=4F7942&icon_color=4F7942&text_color=c9d1d9&bg_color=0d1117""/>
+  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantosIsabelle&layout=compact&hide_border=true&title_color=4F7942&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Isa-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Isa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Isa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Isa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Isa-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Isa-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Isa-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <a href="https://gifyu.com/image/SN5Pp"><img align="right" alt="GIF-isa" height="150" style="border-radius:50px;" src="https://s4.gifyu.com/images/gif-isa.gif" alt="gif-isa.gif" border="0" /></a>
   
+  <div align="center" style="display: inline_block"><br>
+    <img align="center" alt="Isa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
+    <img align="center" alt="Isa-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" alt="Isa-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> 
+    <img align="center" alt="Isa-dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+    <img align="center" alt="Isa-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+    <img align="center" alt="Isa-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> 
+    <img align="center" alt="Isa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Isa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Isa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
-
+  
   ##
- 
-<div> 
-  <a href="https://instagram.com/Isabelle_Santos09" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href = "mailto:isabellesantos09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-  
-  ![Snake animation](https://github.com/SantosIsabelle/SantosIsabelle/blob/output/github-contribution-grid-snake.svg)
+<div align="center"> 
+  <a href="https://www.instagram.com/isabelle_santos09" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%4F7942?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:isabellecristinasantos09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+##
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{SantosIsabelle}/count.svg" /></p> 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4F7942&height=120&section=footer"/>
+
  
 </div>
